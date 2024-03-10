@@ -1,1 +1,15 @@
 
+.Logo
+{
+  position:absolute;
+  top:50%;
+  left:50%;
+  width:400px;
+  height:400px;
+  margin-top:-200px;
+  margin-left:-200px;
+  border-radius:2px;
+  box-shadow: 1px 1px 1px 1px rgba(0,0,0,0);
+background:#43389F;
+  background:linear-gradient(to top #43389F 0%, #4ec6ca 100%); 
+}
